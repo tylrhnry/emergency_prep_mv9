@@ -119,8 +119,8 @@ A lesser-known radio communication method is using the LoRa (Long-range) modulat
 I have frequently used these radios while camping, backpacking, and hunting to track the location of my family/friends. If you're willing to forgo voice communication (like the radio communication you are likely familiar with), Meshtastic can be an extremely useful and beginner-friendly way to get some good capabilities. The battery life on the radios can frequently be 5-7 days. The lack of a licensing requirement opens the opportunity to many people, but it also constrains the legal power output of the radios. Even though the radios get a surprising range considering the low power output, it is still a low power output, and subsequently, can't perform as well as ham radios that transmit with significantly more power.
 
 If you are slightly tech-savvy and willing to watch a couple of tutorials, you can put one of these radios together (Plug in a battery and clip on a different antenna) for fairly cheap (\$35-\$45).
-[Radio](https://store.rakwireless.com/products/wisblock-starter-kit?variant=41786685063366)
-[Battery](amazon.com/gp/aw/d/B091Y3TW9F) (You can find these batteries for about $6 when not ordering from Amazon. Also, the positive and negative wires on this need to be swapped in the plastic connector. It isn't too hard to do, but let me know if you are planning on doing this, and I can help.)
+- [Radio](https://store.rakwireless.com/products/wisblock-starter-kit?variant=41786685063366) 
+- [Battery](amazon.com/gp/aw/d/B091Y3TW9F) (You can find these batteries for about $6 when not ordering from Amazon. Also, the positive and negative wires on this need to be swapped in the plastic connector. It isn't too hard to do, but let me know if you are planning on doing this, and I can help.)
 A different antenna is not necessary, but recommended for increased range performance. I will try to add more information here on the assembly process, but until that happens, please contact me and I'd be more than happy to help. Putting one of these radios together sounds intimidating, but it is quite simple (I'm probably biased though).
 
 You can also pick from a variety of pre-build solutions. [This is one example](https://store.rakwireless.com/products/wismesh-pocket)
@@ -168,8 +168,8 @@ Steve also puts on the Payson ham net (meeting over radio) on Sunday evenings at
 To get a GMRS license, visit [this site](https://www.fcc.gov/wireless/universal-licensing-system). You first need to register with the FCC, then you can apply for the license.
 
 #### Other Ham Radio References
-https://www.radioreference.com/db/browse/ctid/2801
-https://www.radioreference.com/db/aid/8851
-https://user.xmission.com/~uarc/netsched.html
-https://utahvhfs.org/bandplan1.html
+- https://www.radioreference.com/db/browse/ctid/2801
+- https://www.radioreference.com/db/aid/8851
+- https://user.xmission.com/~uarc/netsched.html
+- https://utahvhfs.org/bandplan1.html
 
