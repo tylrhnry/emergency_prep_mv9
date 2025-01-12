@@ -35,15 +35,13 @@ Some of these items may only require 1 family member to include it in their kit.
 - Whistle
 - Radio
 - - Crank Radio
-- - Baofeng UV-5R (most common, cheap)
-- - Quansheng UV-K5 (better features, similar price)
-- - Tidradio TD-H3 (nicer features, slightly more expensive, less common)
+- - Ham radio (see [communication page](./communication.md))
 - Firearm
 - - Familiarize yourself with laws and function
 - - - [Utah laws summary](https://utahcarrylaws.com/laws/utah/self-defense/)
 
 ### Medical
-This is a playlist of some first aid videos. [ First aid videos ](https://www.youtube.com/playlist?list=PLvd0isBh6beQJ1YrlssqzKoXY_aw-qvoW)
+This is a playlist of some first aid videos. [First aid videos](https://www.youtube.com/playlist?list=PLvd0isBh6beQJ1YrlssqzKoXY_aw-qvoW)
 - Boo-Boo kit
 - - Adhesive Bandages (Band-aids)
 - - Antiseptic (Neosporin)

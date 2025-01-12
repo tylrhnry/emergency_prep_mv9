@@ -135,18 +135,18 @@ Earlier, it was mentioned that many ham radios are capable of communicating on t
 #### Example Radios
 These are a few, cheap handheld ham radios. They are all fairly popular and it shouldn't be too difficult to find guides and videos for your specific radio (on top of the one that will come with the radio). If you would like a radio that is a little nicer than the ones below, I am going to leave it up to you to find one that will suit your needs, desires, and budget. There are too many radios for me to mention, so this list is primarily targeted at those that aren't super interested in ham radio, don't want to spend very much, but still would like something. None of these radios are flagship devices, but they are fairly common, even among more involved ham radio operators.
 
-- [ Baofeng UV-5R ](https://www.baofengradio.com/products/catalog-uv-5r)
+- [Baofeng UV-5R](https://www.baofengradio.com/products/catalog-uv-5r)
 - - Arguably the most common radio. It is very cheap and has a simple user interface. Because of how common it is, resources are plentiful.
-- - [ Buy here ](https://www.amazon.com/Baofeng-UV-5R-136-174-400-480Mhz-1800mAh/dp/B074XPB313?th=1)
-- [ Baofeng UV-9R Pro ](https://www.baofengradio.com/products/uv-9r-pro?_pos=9&_ss=r)
+- - [Buy here](https://www.amazon.com/Baofeng-UV-5R-136-174-400-480Mhz-1800mAh/dp/B074XPB313?th=1)
+- [Baofeng UV-9R Pro](https://www.baofengradio.com/products/uv-9r-pro?_pos=9&_ss=r)
 - - This is basically a UV-5R (the one mentioned above), but waterproof. A little more expensive, but if you need a waterproof radio, this is one of the main budget options.
-- - [ Buy here ](https://www.amazon.com/BAOFENG-Dustproof-Waterproof-Transceiver-Plus%EF%BC%88Green%EF%BC%89/dp/B09J8GWC6D)
-- [ TidRadio TD H3 ](https://tidradio.com/products/h3-ham-radio)
+- - [Buy here](https://www.amazon.com/BAOFENG-Dustproof-Waterproof-Transceiver-Plus%EF%BC%88Green%EF%BC%89/dp/B09J8GWC6D)
+- [TidRadio TD H3](https://tidradio.com/products/h3-ham-radio)
 - - This radio adds more frequencies compared to the Baofengs (this allows listening to a lot more and being able to talk on frequencies that other people's radios might not be able to, which can help in busy situations). It also allows wirelessly programming the settings of the radio (like labeling a frequency with a specific number or name for easier usage). You can use an app on your phone, which is easier for many people. You can also use a pre-programmed radio to program other radios wirelessly. This is also a great option for usage as a "walkie-talkie". There is another type of radio that wasn't discussed here called GMRS, which for simplicity, we can consider a fancy walkie-talkie. There is a mode for the radio that can convert the radio from a ham radio to a GMRS radio. This allows you to use this without fear of unknowingly breaking any ham radio laws, while giving you the practice of using the radio and the hardware that is capable of it if you were to ever need or want it. Operating a GMRS radio does require a license, but there isn't any test and the license applies to your entire family. See below on how to get this license.
-- - [ Buy here ](https://www.aliexpress.us/item/3256807686983929.html?levelOneExtF=%5Bobject%20Object%5D)
-- [ Quansheng UV-K5 ](https://en.qsfj.com/products/3002)
+- - [Buy here](https://www.aliexpress.us/item/3256807686983929.html?levelOneExtF=%5Bobject%20Object%5D)
+- [Quansheng UV-K5](https://en.qsfj.com/products/3002)
 - - For about the same price as the UV-5R, this is arguably a much better radio. The only downside is that it isn't quite as prolific, but it's features have led to it becoming quite popular recently. It has more frequencies it can operate on, which can be extremely useful, especially for listening. Additionally, if you are interested in getting a little more involved, but still want to stick to a budget, this radio has open-source firmware. People have made new features of the software that this radio can run and have given it a ton more capabilities. If you want to tinker, this is a great radio to do so.
-- - [ Buy here ](https://www.aliexpress.us/item/3256807603227075.html?utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A)
+- - [Buy here](https://www.aliexpress.us/item/3256807603227075.html?utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A)
 
 #### Emergencies
 > § 97.403 Safety of life and protection of property.
@@ -159,11 +159,13 @@ In an emergency, the two main frequencies you would want to use are 146.520 MHz 
 
 #### Resources
 If you would like to get your ham radio license, I recommend looking at this site
-[ https://hamstudy.org/ ](https://hamstudy.org/)
+[https://hamstudy.org/](https://hamstudy.org/)
 
 Steve Whitehead, a serious ham operator in Payson, is also a great resource. He frequently helps people get their licenses. I don't want to put his email address on a publicly available site that can be scraped by scammers. If you would like his email, you can either contact me, find it on the Member Tools app, or figure it out from this hint. His ham radio call sign is nv7v. His email username is his call sign and he has a custom domain that is also his call sign with the '.org' tld. An email address is in the format username@domain.tld. So his email is callsign@callsign.org (insert his actual call sign).
 
 Steve also puts on the Payson ham net (meeting over radio) on Sunday evenings at 8:00 PM. To tune in, you can set your radio to the frequency 147.400 MHz (or 447.000 MHz and set your radio setting for tone to +100 Hz). Again, unless you have a ham license, you are only legally allowed to listen.
+
+To get a GMRS license, visit [this site](https://www.fcc.gov/wireless/universal-licensing-system). You first need to register with the FCC, then you can apply for the license.
 
 #### Other Ham Radio References
 https://www.radioreference.com/db/browse/ctid/2801
