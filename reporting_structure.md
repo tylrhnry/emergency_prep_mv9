@@ -10,4 +10,4 @@ Individuals with radio experience and equipment may be particularly suited for t
 
 If you would like to volunteer to be a section or group leader, please fill out this [survey](https://docs.google.com/forms/d/e/1FAIpQLSeq5RaFs3l4CDrJlwXkg2gZQUkAYIHy8xDjbXnz7KlsP-0FPQ/viewform?usp=dialog).
 
-[neighborhood map](./neighborhood_map.png)
+![neighborhood map](./neighborhood_map.png)
