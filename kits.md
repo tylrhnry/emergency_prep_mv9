@@ -11,12 +11,12 @@ Some of these items may only require 1 family member to include it in their kit.
 
 ### Water
 - 2 Liters/Quarts (3-4 Liters for a lot of physical activity)
-- - Small children may require less
-- - This quantity is only for drinking (no sanitation)
+  - Small children may require less
+  - This quantity is only for drinking (no sanitation)
 
 ### Food
 - Energy-dense, non-perishable, no-cook, compact
-- - Canned Food, Jerky, Trail Mix, Peanut Butter, Candy, etc.
+  - Canned Food, Jerky, Trail Mix, Peanut Butter, Candy, etc.
 
 ### Sanitation
 - Basic Toiletries
@@ -30,38 +30,38 @@ Some of these items may only require 1 family member to include it in their kit.
 - Batteries
 - Cash
 - Fire starter (lighters, matches)
-- - Include some flammable tinder (like cotton balls)
-- - Lighters and matches are highly susceptible to water. Place them in a plastic bag
+  - Include some flammable tinder (like cotton balls)
+  - Lighters and matches are highly susceptible to water. Place them in a plastic bag
 - Whistle
 - Radio
-- - Crank Radio
-- - Ham radio (see [communication page](./communication.md))
+  - Crank Radio
+  - Ham radio (see [communication page](./communication.md))
 - Firearm
-- - Familiarize yourself with laws and function
-- - - [Utah laws summary](https://utahcarrylaws.com/laws/utah/self-defense/)
+  - Familiarize yourself with laws and function
+    - [Utah laws summary](https://utahcarrylaws.com/laws/utah/self-defense/)
 
 ### Medical
 This is a playlist of some first aid videos. [First aid videos](https://www.youtube.com/playlist?list=PLvd0isBh6beQJ1YrlssqzKoXY_aw-qvoW)
 - Boo-Boo kit
-- - Adhesive Bandages (Band-aids)
-- - Antiseptic (Neosporin)
-- - Medicine
+  - Adhesive Bandages (Band-aids)
+  - Antiseptic (Neosporin)
+  - Medicine
 - Trauma kit
-- - Tourniquet
-- - Gauze
-- - Compression wrap
-- - Hemostatic agents (Blood clotting)
-- - Burn Cream
-- - Chest seals
-- - Trauma shears
+  - Tourniquet
+  - Gauze
+  - Compression wrap
+  - Hemostatic agents (Blood clotting)
+  - Burn Cream
+  - Chest seals
+  - Trauma shears
 - Personally necessary medication/equipment/etc.
-- - Customize to your family's needs. Consider secondary needs such as electricity to power a refrigerator to keep medication cold or to power a CPAP machine. Those things are likely less mobile and won't be included in the 24-hour "go" kit.
-- - Examples:
-- - - Epinephrine
-- - - Insulin
-- - - Blood thinners
-- - - Contact lenses/Eyeglasses
-- - - Inhaler
+  - Customize to your family's needs. Consider secondary needs such as electricity to power a refrigerator to keep medication cold or to power a CPAP machine. Those things are likely less mobile and won't be included in the 24-hour "go" kit.
+  - Examples:
+    - Epinephrine
+    - Insulin
+    - Blood thinners
+    - Contact lenses/Eyeglasses
+    - Inhaler
 
 
 ## 72 Hour Kit
@@ -73,13 +73,13 @@ Everything in the 24 Hour Kit and ...
 
 ### Water
 - More Water (1 Ga. per person, per day)
-- - This is for drinking and basic sanitation.
+  - This is for drinking and basic sanitation.
 - Water filter/purification liquid
 
 ### Food
 - More food/snacks
 - Method of cooking food
-- - Propane/Isobutane stove
+  - Propane/Isobutane stove
 
 ### Sanitation
 - More Toiletries
@@ -92,15 +92,15 @@ Everything in the 24 Hour Kit and ...
 - Fire extinguisher
 - Fuel Storage (add stabilizer for long-term storage)
 - Maps
-- - Paper is great, but downloaded, offline phone maps are generally more useful and available assuming you can keep your phone charged
+  - Paper is great, but downloaded, offline phone maps are generally more useful and available assuming you can keep your phone charged
 
 ### Medical
 - Isopropyl alcohol
 - Medication
-- - Allergy medication
-- - Acetaminophen/Ibuprofen (Tylenol/Advil) (pain relievers)
-- - Cough, Flu, Fever medication
-- - Anti-diarrhea meds
-- - Tums/Pepto Bismol
+  - Allergy medication
+  - Acetaminophen/Ibuprofen (Tylenol/Advil) (pain relievers)
+  - Cough, Flu, Fever medication
+  - Anti-diarrhea meds
+  - Tums/Pepto Bismol
 - Other personally necessary medication/equipment/etc.
 
